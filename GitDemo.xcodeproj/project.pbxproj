@@ -15,6 +15,7 @@
 		6C6F04062A5CF5E600554FC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C6F04042A5CF5E600554FC1 /* LaunchScreen.storyboard */; };
 		6C6F040E2A5CF86200554FC1 /* feature1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C6F040D2A5CF86200554FC1 /* feature1ViewController.swift */; };
 		6CDF69D82A5CFA5800C99F56 /* feature2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDF69D72A5CFA5800C99F56 /* feature2ViewController.swift */; };
+		6CDF69DA2A5CFBAB00C99F56 /* feature3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDF69D92A5CFBAB00C99F56 /* feature3ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		6C6F04072A5CF5E600554FC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C6F040D2A5CF86200554FC1 /* feature1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feature1ViewController.swift; sourceTree = "<group>"; };
 		6CDF69D72A5CFA5800C99F56 /* feature2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feature2ViewController.swift; sourceTree = "<group>"; };
+		6CDF69D92A5CFBAB00C99F56 /* feature3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feature3ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				6C6F04072A5CF5E600554FC1 /* Info.plist */,
 				6C6F040D2A5CF86200554FC1 /* feature1ViewController.swift */,
 				6CDF69D72A5CFA5800C99F56 /* feature2ViewController.swift */,
+				6CDF69D92A5CFBAB00C99F56 /* feature3ViewController.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C6F03FE2A5CF5E500554FC1 /* ViewController.swift in Sources */,
+				6CDF69DA2A5CFBAB00C99F56 /* feature3ViewController.swift in Sources */,
 				6C6F03FA2A5CF5E500554FC1 /* AppDelegate.swift in Sources */,
 				6C6F03FC2A5CF5E500554FC1 /* SceneDelegate.swift in Sources */,
 				6CDF69D82A5CFA5800C99F56 /* feature2ViewController.swift in Sources */,
