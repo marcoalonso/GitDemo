@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+protocol feature2Protocol {
+    func setupUI()
+}
+
+class feature2ViewController {
+    
+}
