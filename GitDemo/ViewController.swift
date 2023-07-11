@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         //Cambios iniciales
     }
 
+    func algunaFuncion(){
+        //Hacer algo aqui...
+    }
 
 }
 
