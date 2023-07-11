@@ -8,5 +8,5 @@
 import Foundation
 
 class feature3ViewController {
-    
+    var user: String = "Marco"
 }
